@@ -22,8 +22,8 @@ const logger = createGradientLogger();
 
 
 
-const REPO_OWNER = 'keithkeizzah';
-const REPO_NAME = 'T-BOT';
+const REPO_OWNER = 'Ramahtech';
+const REPO_NAME = 'RAMAH TBOT';
 
 const VERSION_FILE = path.join(__dirname, 'version.txt');
 
