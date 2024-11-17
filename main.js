@@ -271,11 +271,11 @@ const logger = createGradientLogger();
 `;
 
     logger(botName);
-    logger('[ Made by keithkeizzah ]');
+    logger('[ Made by RamadhanTech ]');
 
 
 
-const REPO_OWNER = 'keithkeizzah';
+const REPO_OWNER = 'RamadhanTech';
 const REPO_NAME = 'T-BOT';
 
 const VERSION_FILE = path.join(__dirname, 'version.txt');
@@ -304,7 +304,7 @@ async function checkLatestCommit() {
 
         }
     } catch (error) {
-        logger('Error checking latest update contract https://t.me/keithkeizzah', error);
+        logger('Error checking latest update contract https://t.me/ramadhanyusuf', error);
     }
 }
 
